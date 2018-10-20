@@ -1,7 +1,7 @@
 # IOT-Works
 My IOT works
 
-
+![Image](https://github.com/Ishaan28malik/IOT-Works/blob/master/demo.jpg)
 
 This Repo contains the IOT Projects made by me and a few on which i am working on </n>
 Some of them are-
