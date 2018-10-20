@@ -1,7 +1,8 @@
 # IOT-Works
 My IOT works
 
-![Image](https://github.com/Ishaan28malik/IOT-Works/blob/master/demo.jpg)
+![Image1](https://github.com/Ishaan28malik/IOT-Works/blob/master/demo.jpg)
+![Image2](https://github.com/Ishaan28malik/IOT-Works/blob/master/iot.jpg)
 
 This Repo contains the IOT Projects made by me and a few on which i am working on </n>
 Some of them are-
@@ -11,3 +12,5 @@ Some of them are-
 4 Ultrasonic Sensor
 5 Temperature Sensor
 6 Rasberry pi Traffic Light System 
+
+![Image3](https://github.com/Ishaan28malik/IOT-Works/blob/master/iot2.jpg)
