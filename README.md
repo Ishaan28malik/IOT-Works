@@ -1,4 +1,10 @@
 # IOT-Works
+
+If anyone of u have made any projects by themselves on IOT and would like to share them here or contribute in this Repo :heart:  then you are welcome here :octocat:
+
+Also I am creating this for the learners to explore this repo :star:
+
+
 My IOT works
 
 ![Image1](https://github.com/Ishaan28malik/IOT-Works/blob/master/demo.jpg)
