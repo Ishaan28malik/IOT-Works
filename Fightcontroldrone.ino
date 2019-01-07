@@ -2,26 +2,23 @@
 #include <Servo.h>
 #include "I2Cdev.h"
 #include <PID_v1.h>
-
 static uint16_t unThrottleIn;
 static uint16_t unPitchIn;
 static uint16_t unRollIn;
 
 #include "MPU6050_6Axis_MotionApps20.h"
 #if I2CDEV_IMPLEMENTATION == I2CDEV_ARDUINO_WIRE
-    #include "Wire.h"
+#include "Wire.h"
 #endif
 
 int outputTL, outputTR, outputBR, outputBL, auxTL, auxTR, auxBR, auxBL;
 int mpuYaw, mpuPitch, mpuRoll;
-
 /***************************
  * Ganancia De PID a Motor *
  * Mapeo de 1000 a 2000    *
  * (Se cuidadoso aqui)     *
  **************************/
 int motorGain = 70;
-
 /**************
 *   CHECADOR  *
 *    SEÑAL    *
@@ -84,14 +81,12 @@ double PitchconsKp=.53, PitchconsKi=0.02, PitchconsKd=0.12;
 double RollaggKp=.40, RollaggKi=0.02, RollaggKd=.9;
 double RollconsKp=.53, RollconsKi=0.02, RollconsKd=0.12;
 
-
 /*************************
 *          PID           *
 *         LIMITES        *
 *************************/
 
 #define OUTPUT_LIMITS 30
-
 double pitchSetpoint, pitchInput, pitchOutput;
 double rollSetpoint, rollInput, rollOutput;
 
@@ -269,13 +264,11 @@ void loop() {
     outputBR = 1000;
     delay(500);
   }
-
   // RADIO CONTROLLER DEBUG
   //Serial.println("Pitch value: ");
   //Serial.println(unPitchIn);
   //Serial.println("Roll value: ");
   //Serial.println(unRollIn);
-
   pitchSetpoint = mpuPitch; // Valor Deseado (en grados)
   pitchInput = map(unPitchIn, 900, 2000, -30, 30); // Valor de entrada (necesita convertirse a grados)
   double Pitchgap = abs(pitchSetpoint-pitchInput); // Distancia hasta setpoint (Error)
