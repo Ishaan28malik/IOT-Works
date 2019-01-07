@@ -4,14 +4,13 @@ If anyone of u have made any projects by themselves on IOT and would like to sha
 
 Also I am creating this for the learners to explore this repo :star:
 
-
-My IOT works
+# My IOT works
 
 ![Image1](https://github.com/Ishaan28malik/IOT-Works/blob/master/demo.jpg)
 ![Image2](https://github.com/Ishaan28malik/IOT-Works/blob/master/iot.jpg)
 
 # This Repo contains the IOT Projects made by me and a few on which i am working on </n>
- Some of them are-
+Some of them are-
 
 </br>1 Smoke detector <br/>
 </br>2 Arduino based car<br/>
