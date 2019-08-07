@@ -3,7 +3,7 @@
 Voice Controlled Mini Home Automation Project (IOT) : Used an Arduino Uno board and Bluetooth Module. Connected LED lights to the Arduino and controlled them by using voice commands though a smartphone connected to the bluetooth module.
 These are some of the pics about the project .
 
-* [Here is the video]()
+* [Here is the video](https://github.com/Ishaan28malik/IOT-Works/blob/master/Voice/VoiceBTarduinoVid.mp4)
 
 ![Image2](https://github.com/Ishaan28malik/IOT-Works/blob/master/Voice/IMG-20190403-WA0036.jpg)
 
