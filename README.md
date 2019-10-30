@@ -15,13 +15,17 @@ Also I am creating this for the learners to explore this repo :star:
 # This Repo contains the IOT Projects made by me and a few on which i am working on </n>
 Some of them are-
 
-</br>1 Smoke detector <br/>
-</br>2 Arduino based car<br/>
-</br>3 Drone<br/> 
-</br>4 Ultrasonic Sensor<br/>
-</br>5 Temperature Sensor<br/>
-</br>6 Rasberry pi Traffic Light System<br/> 
-</br>7 Home Automation tool <br/>
+* 1 Smoke detector 
+* 2 Arduino based car
+* 3 Drone
+* 4 Ultrasonic Sensor
+* 5 Temperature Sensor
+* 6 Rasberry pi Traffic Light System
+* 7 Home Automation tool 
+* 8 Voide Control
+* 9 Finger Print
+
+
 ![Image3](https://github.com/Ishaan28malik/IOT-Works/blob/master/iotHomeAutomation.jpg)
 
 ![Image4](https://github.com/Ishaan28malik/IOT-Works/blob/master/iot2.jpg)
