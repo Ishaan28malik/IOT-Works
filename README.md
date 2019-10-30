@@ -9,6 +9,9 @@ Also I am creating this for the learners to explore this repo :star:
 ![Image1](https://github.com/Ishaan28malik/IOT-Works/blob/master/demo.jpg)
 ![Image2](https://github.com/Ishaan28malik/IOT-Works/blob/master/iot.jpg)
 
+
+# Best Resources
+* [Random Nerd Tutorials](https://randomnerdtutorials.com/)
 # This Repo contains the IOT Projects made by me and a few on which i am working on </n>
 Some of them are-
 
